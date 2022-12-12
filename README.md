@@ -1,3 +1,3 @@
 # water_flow_meter
 
-![alt text](https://github.com/tangpongpat/water_flow_meter/main/diagram.jpg?raw=true)
+![alt text](https://github.com/tangpongpat/main/water_flow_meter/diagram.jpg?raw=true)
